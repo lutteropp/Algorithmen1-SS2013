@@ -1,0 +1,2 @@
+Die Tutoriumsfolien findet ihr auf Github unter:
+https://github.com/algomaus/Algorithmen1-SS2013
