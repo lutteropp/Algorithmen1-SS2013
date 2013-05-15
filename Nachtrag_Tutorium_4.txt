@@ -1,0 +1,3 @@
+Kreativaufgabe: Die Aufgabe mit dem SparseArray hatte doch Sinn gemacht, uninitialisierter Speicherbereich bedeutet, dass dort auch wahrloser Müll, z.B. irgendwelche sinnlosen Zahlen drinstehen kann.
+
+4. Übungsblatt, Aufgabe 1d: Ein Maschinenwort ist ein Speicherblock, also z.B. 1 Byte groß.
